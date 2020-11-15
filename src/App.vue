@@ -18,9 +18,3 @@
         }
     };
 </script>
-
-<style lang="scss" scoped>
-    .container {
-        color: blue;
-    }
-</style>

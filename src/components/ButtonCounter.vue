@@ -12,7 +12,7 @@
         },
         render(h) {
             return (
-                <button on-click={() => this.increment()}>
+                <button class="btn btn-primary" on-click={() => this.increment()}>
                     You clicked me {this.count} times.
                 </button>
             );
